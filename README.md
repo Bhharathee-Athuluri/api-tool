@@ -3,7 +3,7 @@
 ```bash
 npm create svelte@latest project_name
 ```
-- Then dependencies using `npm install`
+- Then install dependencies using `npm install`
 
 #### Starting a development server
 ```bash
