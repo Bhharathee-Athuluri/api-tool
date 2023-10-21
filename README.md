@@ -1,11 +1,11 @@
-## Creating a project in svelte
+#### Creating a project in svelte
 
 ```bash
 npm create svelte@latest project_name
 ```
 - Then dependencies using `npm install`
 
-## Starting a development server
+#### Starting a development server
 ```bash
 npm run dev
 
